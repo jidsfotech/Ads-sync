@@ -12,3 +12,4 @@ isodate
 PyQt5
 python-vlc
 qasync
+python-multipart
