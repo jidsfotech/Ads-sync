@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+python-dotenv
+cloudinary
+psycopg2-binary
+aiohttp
+requests
+isodate
+PyQt5
+python-vlc
+qasync
